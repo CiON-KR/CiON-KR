@@ -7,7 +7,6 @@
 <img src="https://img.shields.io/badge/PYTHON-00599C?style=flat-square&logo=Python&logoColor=white"/>
 
 ## :mailbox: How to reach me
-![Telegram](https://img.shields.io/badge/CiON_KR-26A5E4?style=flat-square&logo=Telegram)
 <br>
 <br>
 
